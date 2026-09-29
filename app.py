@@ -8,4 +8,9 @@ print("5. Online Payment")
 print("6. Track Order")
 print("7. View Order History")
 print("8. Rate Order")
+<<<<<<< HEAD
 print("Search Restaurants and Food feature added")
+=======
+print("Add Food to Cart feature added")
+>>>>>>> feature/cart
+print("Online Payment feature added")
