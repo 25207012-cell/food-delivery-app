@@ -1,17 +1,14 @@
-print("Food Delivery Application")
+def main():
+    print("Food Delivery Application")
+    print("1. User Registration")
+    print("2. User Login")
+    print("3. Search Restaurants and Food")
+    print("4. Add Food to Cart")
+    print("5. Online Payment")
+    print("6. Track Order")
+    print("7. View Order History")
+    print("8. Rate Order")
 
-print("1. User Registration")
-print("2. User Login")
-print("3. Search Restaurants and Food")
-print("4. Add Food to Cart")
-print("5. Online Payment")
-print("6. Track Order")
-print("7. View Order History")
-print("8. Rate Order")
-<<<<<<< HEAD
-print("Search Restaurants and Food feature added")
-=======
-print("Add Food to Cart feature added")
->>>>>>> feature/cart
-print("Online Payment feature added")
-print("Order Tracking feature added")
+
+if __name__ == "__main__":
+    main()
