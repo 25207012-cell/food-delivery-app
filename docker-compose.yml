@@ -1,0 +1,7 @@
+services:
+  food-delivery:
+    build: .
+    container_name: food-delivery-app
+    ports:
+      - "5000:5000"
+    restart: unless-stopped
